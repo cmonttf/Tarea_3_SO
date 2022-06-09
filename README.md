@@ -1,4 +1,4 @@
-# Tarea 2
+# Tarea 3 Taller de Python para Ciencias de Datos 
 
 En esta tarea aplicaremos conceptos básicos de python, para leer, limpiar, normalizar valores, etc., utilizando herramientas visto en las clases de Taller de Python para Ciencias de Datos.
 
