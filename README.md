@@ -1,6 +1,6 @@
 # Tarea 3 Taller de Python para Ciencias de Datos 
 
-En esta tarea aplicaremos conceptos básicos de python, para leer, limpiar, normalizar valores, etc., utilizando herramientas visto en las clases de Taller de Python para Ciencias de Datos.
+En esta tarea aplicaremos conceptos básicos de python, para leer y graficar lo trabajado en la Tarea 2, utilizando herramientas visto en las clases de Taller de Python para Ciencias de Datos.
 
 Para comenzar debemos clonar la carpeta con todos los archivos, para Linux (Lubuntu) lo haremos de la siguiente forma:
 
