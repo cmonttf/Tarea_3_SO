@@ -17,7 +17,7 @@ $ git clone https://github.com/cfierrom/Tarea-2-Taller-de-Python-para-Ciencias-d
 ```
 7. Por último, presionamos Enter para crear el clon local. 
 ``` 
-$ git clone https://github.com/cfierrom/Tarea-2-Taller-de-Python-para-Ciencias-de-Datos
+$ git clone https://github.com/cmonttf/Tarea_3_TPCD
 > Cloning into `Spoon-Knife`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
